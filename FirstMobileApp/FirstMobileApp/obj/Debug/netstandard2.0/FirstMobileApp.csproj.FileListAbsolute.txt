@@ -1,0 +1,14 @@
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\bin\Debug\netstandard2.0\FirstMobileApp.deps.json
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\bin\Debug\netstandard2.0\FirstMobileApp.dll
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\bin\Debug\netstandard2.0\ref\FirstMobileApp.dll
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\bin\Debug\netstandard2.0\FirstMobileApp.pdb
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\obj\Debug\netstandard2.0\FirstMobileApp.csprojAssemblyReference.cache
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\obj\Debug\netstandard2.0\FirstMobileApp.AssemblyInfoInputs.cache
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\obj\Debug\netstandard2.0\FirstMobileApp.AssemblyInfo.cs
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\obj\Debug\netstandard2.0\FirstMobileApp.csproj.CoreCompileInputs.cache
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\obj\Debug\netstandard2.0\FirstMobileApp.dll
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\obj\Debug\netstandard2.0\ref\FirstMobileApp.dll
+E:\VS\Mobile\FirstMobileApp\FirstMobileApp\FirstMobileApp\obj\Debug\netstandard2.0\FirstMobileApp.pdb
